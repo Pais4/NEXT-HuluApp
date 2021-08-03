@@ -1,0 +1,18 @@
+1. Removemos el package.lock para usar yarn
+2. Comando: yarn
+
+-- INSTALACIÓN DE TAILWIND --
+https://tailwindcss.com/docs/guides/nextjs
+    - yarn add -D tailwindcss@latest postcss@latest autoprefixer@latest
+    - npx tailwindcss init -p
+    - Incluimos en las configuraciones de tailwind lo siguiente:
+        - mode: 'jit'
+    - Seguimos las instrucciones de la pagina.
+https://www.npmjs.com/package/tailwind-scrollbar-hide
+    - Instalamos esto para esconder el scrollbar
+
+3. Corremos: yarn run dev
+
+-- ICONS --
+    - Hero Icons - https://github.com/tailwindlabs/heroicons
+    - yarn add @heroicons/react
