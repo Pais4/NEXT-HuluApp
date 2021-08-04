@@ -17,6 +17,12 @@ https://www.npmjs.com/package/tailwind-scrollbar-hide
     - Hero Icons - https://github.com/tailwindlabs/heroicons
     - yarn add @heroicons/react
 
+-- API KEY --
+    - https://www.themoviedb.org/settings/api
+
 -- Environment Variables --
     - Archivo: .env.local -> Son variables locales que no se van a subir al repositorio de Github, por lo cual
     hay que tenerlas presentes y crear el archivo cada que descarguemos el repo.
+
+-- React Flip Move
+    - Usamos esta libreria para generar animaciones facilmente.
